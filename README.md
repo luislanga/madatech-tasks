@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple task management CRUD application built with CodeIgniter 4. It provides a web interface and a RESTful API for managing tasks. The project is designed to run on XAMPP but can be configured to run on an Apache server with PHP and PostgreSQL (optional) support.
+This is a simple task management CRUD application built with CodeIgniter 4. It provides a web interface and a RESTful API for managing tasks. The project is designed to run on XAMPP but can be configured to run on an Apache server with PHP and PostgreSQL support.
 
 ## Features
 
